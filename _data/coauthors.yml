@@ -10,3 +10,6 @@
 "thalmann":
   - firstname: ["Stefan", "S.", "S. T.", "Stefan Thalmann"]
     url: https://operations.uni-graz.at/de/institut/team/bereich-information-systems/homepage-stefan-thalmann/
+"robertson":
+  - firstname: ["Viktoria H.S.E.", "V.H.S.E", "V. H. S. E. R.", "Viktoria H.S.E. Robertson"]
+    url: https://www.wu.ac.at/complaw/robertson
