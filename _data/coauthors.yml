@@ -1,3 +1,12 @@
 "palan":
   - firstname: ["Stefan", "S.", "S. P.", "Stefan Palan"]
     url: https://academic.palan.biz/
+"ackermann":
+  - firstname: ["Kurt Alexander", "K.A.", "K. A. A.", "Kurt A. Ackermann"]
+    url: https://www.zhaw.ch/de/ueber-uns/person/acka/
+"kowald":
+  - firstname: ["Dominik", "D.", "D. K.", "Dominik Kowald"]
+    url: https://domkowald.github.io/
+"thalmann":
+  - firstname: ["Stefan", "S.", "S. T.", "Stefan Thalmann"]
+    url: https://operations.uni-graz.at/de/institut/team/bereich-information-systems/homepage-stefan-thalmann/
