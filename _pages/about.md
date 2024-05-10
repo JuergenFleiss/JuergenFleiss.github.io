@@ -18,4 +18,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This page is still work in progress, but it's slowly getting there.
+
+I am a Senior Lecturer at the Business Analytics and Data Science Center (Bandas-Center) at the University of Graz. I work on the use of explainable artificial intelligence in HR and other business fields, with a focus on bias (reduction) and acceptance of algorithms. My work on biased decisions extends to basic research on how group identity influences behavior in competitive settings. Most recently, I employ data-driven methods in behavioral screens to detect anti-trust violations.
