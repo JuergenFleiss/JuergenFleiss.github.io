@@ -1,27 +1,16 @@
 ---
 layout: page
-title: project 1
+title: Computational Antitrust
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/datacomp_dashboard.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Antitrust violations in their various forms result in considerable costs and disadvantages for competitors, customers and the public at large. Yet uncovering such violations is often difficult, as they frequently happen in secret. However, in the wake of digitalization, large amounts of data are often publicly available that may offer clues to (potential) antitrust violations. The DataComp project addresses open questions on the data-driven detection of competition law infringements both from the perspective of business analytics and from the perspective of competition law, while striving to set out the legal framework.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -67,15 +56,3 @@ Here's the code for the last row of images above:
 
 {% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
