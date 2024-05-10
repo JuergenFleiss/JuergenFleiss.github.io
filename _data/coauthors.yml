@@ -13,3 +13,6 @@
 "robertson":
   - firstname: ["Viktoria H.S.E.", "V.H.S.E", "V. H. S. E. R.", "Viktoria H.S.E. Robertson"]
     url: https://www.wu.ac.at/complaw/robertson
+'böhm':
+  - firstname: ["Robert", "R.", "R. B.", "Robert Böhm"]
+    url: https://robertboehm.info/index.html
