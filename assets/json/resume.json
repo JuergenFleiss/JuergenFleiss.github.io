@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Jürgen Fleiß",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "juergen.fleiss@uni-graz.at",
+    "phone": "+43 (0)316 380-7602",
+    "url": "hhttps://juergenfleiss.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Universitätsstraße 15/G3",
+      "postalCode": "8044",
+      "city": "Graz",
+      "countryCode": "AT",
+      "region": "Styria"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Github",
+        "username": "JuergenFleiss",
+        "url": "https://github.com/JuergenFleiss"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Business Analytics and Data Science-Center, University of Graz",
+      "position": "Senior Lecturer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
-  "volunteer": [
+  /*"volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -44,6 +44,7 @@
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
+  ]
   ],
   "education": [
     {
@@ -196,5 +197,5 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-  ]
+  ]*/
 }
