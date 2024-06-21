@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Researcher at the Business Analytics and Data Science-Center at the Unviersity of Graz
- #
+ #l
 profile:
   align: right
   image: prof_pic.jpg
