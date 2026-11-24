@@ -30,7 +30,7 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false # trophies were images from github-profile-trophy.vercel.app, which is unreachable
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -315,6 +315,10 @@ scholar:
   query: "@*"
   group_by: year
   group_order: descending
+
+  # newest first; ties within a year are ordered by title
+  sort_by: year,title
+  order: descending,ascending
 
 # Display different badges withs stats for your publications
 enable_publication_badges:

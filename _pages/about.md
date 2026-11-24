@@ -6,7 +6,7 @@ subtitle: Researcher at the Business Analytics and Data Science-Center at the Un
  #l
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_bandas.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>University of Graz</p>
@@ -19,8 +19,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am a Senior Lecturer at the Business Analytics and Data Science Center (Bandas-Center) at the University of Graz. I work on the use of explainable artificial intelligence in HR and other business fields, with a focus on bias (reduction) and acceptance of algorithms. 
+I am a Senior Lecturer at the Business Analytics and Data Science Center (Bandas-Center) at the University of Graz. I work on Human-AI Interaction, especially in high-risk use cases. I study how human biases interact with agentic information systems to increase or decrease their autonomy. 
 
 I also employ data-driven methods in behavioral screens to detect anti-trust violations, contributing to the field of computational antitrust. 
 
-I also, together with Armin Haberl, develop and maintain the software package [aTrain](https://github.com/JuergenFleiss/aTrain), an easy-to-use machine learning based offline tool for easy transcription of audio data. aTrain is used at and recommended by research institutions all over the world.
+I also, together with Armin Haberl, develop and maintain the software package [aTrain](https://github.com/aTrainTranscription/aTrain), an easy-to-use machine learning based offline tool for easy transcription of audio data. aTrain is used at and recommended by research institutions all over the world.

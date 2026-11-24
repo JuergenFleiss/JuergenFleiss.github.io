@@ -37,7 +37,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/JuergenFleiss/aTrain">aTrain</a>
+    - title: <a href="https://github.com/aTrainTranscription/aTrain">aTrain</a>
       year: 2023-now
       description: A GUI tool for automatically transcribing speech recordings utilizing state-of-the-art machine learning models without uploading any data. 
 

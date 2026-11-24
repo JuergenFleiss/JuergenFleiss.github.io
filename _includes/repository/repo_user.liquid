@@ -1,14 +1,7 @@
-<div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.username }}">
-    <img
-      class="repo-img-light w-100"
-      alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true"
-    >
-    <img
-      class="repo-img-dark w-100"
-      alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true"
-    >
+<div class="repo p-2">
+  <a class="repo-card repo-card-user" href="https://github.com/{{ include.username }}" data-user="{{ include.username }}">
+    <span class="repo-card-title">{{ include.username }}</span>
+    <span class="repo-card-desc"></span>
+    <span class="repo-card-meta"></span>
   </a>
 </div>
